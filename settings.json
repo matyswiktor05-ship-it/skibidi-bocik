@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "skibidi-bocik",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "serwersmpklasa.aternos.me:23151",
+    "port": 23151,
+    
     "version": "",
     "try-creative": false
   },
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "siema boty",
+        "jestem skibidi bocik",
+        "bije male dzieci"
       ]
     },
     "chat-log": true,
