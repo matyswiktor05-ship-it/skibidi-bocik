@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "skibidi-bocik",
+    "username": "skibidibocik",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "serwersmpklasa.aternos.me:23151",
+    "ip": "serwersmpklasa.aternos.me",
     "port": 23151,
     
     "version": "",
